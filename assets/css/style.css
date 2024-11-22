@@ -10,3 +10,16 @@
 
     color: #ffffff;
 }
+
+main {
+    
+    background-color: black;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+footer {
+    background-color: #0c465f;
+}

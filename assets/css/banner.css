@@ -1,8 +1,8 @@
 .banner {
-    width: 1440px;
     height: 605px;
 
     display: flex;
+    flex-direction: column;
     justify-content: center;
 
     background-image: url(../images/banner.png);
