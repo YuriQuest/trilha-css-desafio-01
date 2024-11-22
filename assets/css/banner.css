@@ -33,6 +33,7 @@
 .banner-content h1 {
     color: #3BA1CD;
     font-size: 40px;
+    text-transform: uppercase;
 }
 
 .banner-content p {
@@ -44,6 +45,7 @@
 .banner-content button {
     font-size: 16px;
     font-weight: bold;
+    text-transform: uppercase;
 
     background-color: rgba(0, 0, 0, 0);
 
