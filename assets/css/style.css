@@ -11,20 +11,20 @@
     color: #ffffff;
 }
 
+.banner,
+.banner-content,
+footer,
 main {
-    
-    background-color: black;
-
     display: flex;
     flex-direction: column;
     justify-content: center;
 }
 
-footer {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
+main {
+    background-color: black;
+}
 
+footer {
     gap: 0px;
 
     background-color: #0c465f;
