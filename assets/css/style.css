@@ -21,5 +21,18 @@ main {
 }
 
 footer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+    gap: 0px;
+
     background-color: #0c465f;
+    height: 170px;
+
+    box-shadow: inset 0px 110px 120px 7px black;
+}
+
+footer .dio-logo {
+    margin-top: 70px;
 }
