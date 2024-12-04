@@ -1,0 +1,32 @@
+#transform-world {
+    /*margin: 100px -1%;*/
+
+    border-style: solid;
+    border-color: #3BA1CD;
+
+    height: 22rem;
+    width: 100%;
+
+    border-width: 1px;
+
+
+    background-image: url(../images/woman-code.png);
+    background-attachment: fixed;
+    background-position: 50%;
+    background-size: cover;
+}
+
+#transform-world p{
+    font-size: 40px;
+    font-weight: bold;
+
+    text-transform: lowercase;
+
+    width: 295px ;
+    margin-right: 65%;
+    margin-top: 6%;
+
+    text-align: left;
+
+    text-shadow: 3px 2px #3BA1CD;
+}

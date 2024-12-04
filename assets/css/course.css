@@ -1,8 +1,15 @@
+
+
+#course-content {
+    margin: 50px auto;
+}
+
 #course-content h2 {
     color: #3BA1CD;
 
     font-size: 32px;
     text-transform: uppercase;
+
 }
 
 #course-content p{

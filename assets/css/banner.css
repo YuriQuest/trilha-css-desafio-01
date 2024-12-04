@@ -5,6 +5,15 @@
     background-color: #0c465f;
 
     box-shadow: inset 0px 110px 120px 7px black,inset 0px -110px 120px -7px black;
+
+    border-style: solid;
+    border-color: #3BA1CD;
+
+    border-top: 1px ;
+    border-left: 1px;
+    border-right: 1px;
+
+    border-width: 1px;
 }
 
 .banner-content {
