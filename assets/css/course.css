@@ -2,26 +2,15 @@
 
 #course-content {
     margin: 50px auto;
+
+    p{
+        width: 792px;
+    }
+    p,
+    .modules-list{
+        margin: 20px 0px;
+    }
 }
-
-#course-content h2 {
-    color: #3BA1CD;
-
-    font-size: 32px;
-    text-transform: uppercase;
-
-}
-
-#course-content p{
-    width: 792px;
-}
-
-#course-content p,
-.modules-list{
-    margin: 20px 0px;
-}
-
-
 
 .module{
     width: 535px;

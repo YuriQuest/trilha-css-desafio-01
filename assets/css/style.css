@@ -26,18 +26,42 @@ main {
     background-color: black;
 }
 
-footer {
+h2 {
+    color: #3BA1CD;
 
+    font-size: 32px;
+    text-transform: uppercase;
+}
+
+#professional-challenges{
+    margin-top: 50px;
+    margin-bottom: 50px;
+
+    h2{
+        width: 817px;
+    }
+
+    p{
+        width: 825px;
+    }
+}
+
+
+footer{
     background-color: #0c465f;
     height: 170px;
 
     box-shadow: inset 0px 110px 120px 7px black;
-}
+    
+    border: 1px solid #3BA1CD;
+    border-left: 1px;
+    border-right: 1px;
+    border-bottom: 1px;
 
-footer .dio-logo {
-    margin-top: 70px;
-}
-
-footer p {
-    margin-bottom: 40px;
+    .dio-logo{
+        margin-top: 70px;
+    }
+    p{
+        margin-bottom: 40px;
+    }
 }
